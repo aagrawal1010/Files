@@ -1,0 +1,6 @@
+c:\users\aagrawal\documents\visual studio 2015\Projects\PrimeNo\PrimeNo\bin\Debug\PrimeNo.exe.config
+C:\Users\aagrawal\Documents\Visual Studio 2015\Projects\PrimeNo\PrimeNo\obj\Debug\PrimeNo.csprojResolveAssemblyReference.cache
+C:\Users\aagrawal\Documents\Visual Studio 2015\Projects\PrimeNo\PrimeNo\bin\Debug\PrimeNo.exe
+C:\Users\aagrawal\Documents\Visual Studio 2015\Projects\PrimeNo\PrimeNo\bin\Debug\PrimeNo.pdb
+C:\Users\aagrawal\Documents\Visual Studio 2015\Projects\PrimeNo\PrimeNo\obj\Debug\PrimeNo.exe
+C:\Users\aagrawal\Documents\Visual Studio 2015\Projects\PrimeNo\PrimeNo\obj\Debug\PrimeNo.pdb
