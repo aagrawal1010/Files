@@ -1,0 +1,6 @@
+c:\users\aagrawal\documents\visual studio 2015\Projects\Palendrom\Palendrom\bin\Debug\Palendrom.exe.config
+c:\users\aagrawal\documents\visual studio 2015\Projects\Palendrom\Palendrom\obj\Debug\Palendrom.csprojResolveAssemblyReference.cache
+c:\users\aagrawal\documents\visual studio 2015\Projects\Palendrom\Palendrom\bin\Debug\Palendrom.exe
+c:\users\aagrawal\documents\visual studio 2015\Projects\Palendrom\Palendrom\bin\Debug\Palendrom.pdb
+c:\users\aagrawal\documents\visual studio 2015\Projects\Palendrom\Palendrom\obj\Debug\Palendrom.exe
+c:\users\aagrawal\documents\visual studio 2015\Projects\Palendrom\Palendrom\obj\Debug\Palendrom.pdb
